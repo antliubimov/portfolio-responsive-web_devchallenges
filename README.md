@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/antliubimov/responsive-web_devchallenges/tree/main/portfolio">
+    <a href="https://github.com/antliubimov/portfolio-responsive-web_devchallenges">
       Solution
     </a>
     <span> | </span>
