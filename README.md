@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://portfolio-responsive-web-devchallenges.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -26,12 +26,13 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
+- [How To Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -50,7 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML 
+- HTML
 - CSS
 - JavaScript
 
@@ -68,10 +69,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/antliubimov/portfolio-responsive-web_devchallenges
 
-# Run the app (index-ex1.html or index-ex2.html)
-$ index-ex1.html
+# Run the app (index.html or index-ex2.html)
+$ index.html
 ```
 
 ## Acknowledgements
